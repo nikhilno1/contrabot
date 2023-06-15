@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Broaden Your Mind: Dare to Think Differently',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://contrabot.vercel.app/',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
