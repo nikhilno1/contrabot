@@ -1,12 +1,13 @@
-# NikBot: Personal Chatbot for Nikhil Utane
+# ContraBot: State your opinion and Contrabot will provide you with a contrarian viewpoint. 
 
-You can see a demo at https://nik-bot.vercel.app/
+You can see a demo at [https://contrabot.vercel.app/](https://contrabot.vercel.app/)
 
 The stack is Nextjs and Langchain. It is hosted on Vercel and Supabase for the database.
 
 Here is a screenshot of the homepage:
 
-![Homepage of the blog](./docs/homepage.png)
+![image](https://github.com/nikhilno1/contrabot/assets/12153722/a0deaae9-7036-49e5-8a5a-93018f6de16e)
+
 
 ## Installation
 
